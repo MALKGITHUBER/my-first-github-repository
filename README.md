@@ -7,3 +7,5 @@ this changes made in remote branch, changes mmade in reademe.md file locally in 
 this change is for creating merge conflicts- local
 this change is for creating merge conflicts- remote
 merge both changes
+
+additional commit for pushing operation
