@@ -8,4 +8,8 @@ this change is for creating merge conflicts- local
 this change is for creating merge conflicts- remote
 merge both changes
 
-additional commit for pushing operation
+additional commit for pushing operationc
+
+1
+2
+3
