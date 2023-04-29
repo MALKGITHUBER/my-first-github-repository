@@ -8,3 +8,6 @@ this changes made in remote branch
 for commiting
 
 relearning github again
+
+
+changes in slave branch
